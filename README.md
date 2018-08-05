@@ -1,6 +1,7 @@
 # Docker exercise:
 This an docker image which will contain nginx server build on top of alpine.|
-html directory will live the content of your web service.
+The html directory will live the content of your web service.
+The web service will be exposed on port 8000 on the host machine.
 
 ## Build image, push and run it:
 ```
