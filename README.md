@@ -13,6 +13,6 @@ docker run -d --name my_assingment -v ${PWD}/html:/usr/share/nginx/html -p 8000:
 ```
 docker run -d --name my_assingment -v ${PWD}/html:/usr/share/nginx/html -p 8000:80 ibrahimalkurdi/u_assignment
 ```
-To check the main page of the web service, click on the below link:
+To check the main page of the web service, click on this link:
 http://localhost:8000
 
